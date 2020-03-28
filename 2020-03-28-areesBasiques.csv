@@ -99,15 +99,15 @@
 109,Cornellà De Llobregat 2,98,20
 110,Cornellà De Llobregat 3,109.5,13
 111,Cornellà De Llobregat 4,69.4,12
-112,Cornudella De Montsant,NaN,0
-113,Deltebre,NaN,2
+112,Cornudella De Montsant,-1,0
+113,Deltebre,-1,2
 114,L'Escala,4.6,1
 115,Esparraguera,127.9,25
 116,Esplugues De Llobregat 1,120,19
 117,Esplugues De Llobregat 2,83.3,22
 118,Falset,38.1,2
 119,Figueres,9.9,5
-120,Flix,NaN,0
+120,Flix,-1,0
 121,La Garriga,156.8,37
 122,Gavà 1,313.2,48
 123,Gavà 2,347.9,70
@@ -119,7 +119,7 @@
 129,La Granadella,206.5,6
 130,Alt Berguedà,29.8,4
 131,Anoia Rural,505.8,42
-133,La Jonquera,NaN,0
+133,La Jonquera,-1,0
 134,Llançà,26.7,2
 135,Lleida 1 Centre Històric-Rambla Ferran,92.8,14
 136,Lleida 2 Primer De Maig,88.3,29
@@ -162,7 +162,7 @@
 175,Parets Del Vallès,363.9,66
 176,Penedès Rural,54.5,17
 177,Peralada,13.5,1
-178,L'Ametlla De Mar - El Perelló,NaN,0
+178,L'Ametlla De Mar - El Perelló,-1,0
 179,La Pobla De Segur,422,25
 180,Alta Ribagorça,102.3,3
 181,Ponts,55.5,2
@@ -239,7 +239,7 @@
 255,Tortosa 1 - Est,83,17
 256,Tortosa 2 - Oest,60.4,12
 257,Torredembarra,47.9,16
-258,Torroella De Montgrí,NaN,0
+258,Torroella De Montgrí,-1,0
 259,Tremp,59.8,6
 260,Ulldecona,19.8,2
 261,Vallirana,96.4,19
@@ -294,7 +294,7 @@
 319,Montgat,309.7,49
 320,Barberà Del Vallès,260,61
 322,Ciutat Badia,270.1,31
-324,Vandellòs I L'Hospitalet De L'Infant,NaN,0
+324,Vandellòs I L'Hospitalet De L'Infant,-1,0
 325,Pineda,64.1,15
 326,Barcelona 7-G,362.4,119
 327,Barcelona 8-I,389.4,68
@@ -302,7 +302,7 @@
 329,Lleida Rural 2-Sud,146.5,11
 330,Breda - Hostalric,99.9,14
 331,Barcelona 10-J,185.8,45
-333,Alt Camp Oest,NaN,0
+333,Alt Camp Oest,-1,0
 334,Almacelles,11.2,2
 335,Sant Andreu De Llavaneres,189.4,28
 336,Tordera,27.6,4
@@ -312,7 +312,7 @@
 340,Vila-Seca,20.9,2
 341,Badalona 7A,502.1,66
 342,Badalona 7B,354.1,42
-343,Ribes De Freser-Campdevànol,NaN,0
+343,Ribes De Freser-Campdevànol,-1,0
 344,Sabadell 4-A,395.7,48
 345,Sabadell 4-B,410.1,63
 346,Sant Joan Les Fonts,98.4,4
