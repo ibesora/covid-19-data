@@ -1,4 +1,4 @@
-timestamp;date;negative;positive
+"timestamp";"date";"negative";"positive"
 1583452800000;2020-03-06;24;2
 1583539200000;2020-03-07;39;5
 1583625600000;2020-03-08;11;2
