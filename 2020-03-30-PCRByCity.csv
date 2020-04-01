@@ -1,11 +1,11 @@
 "name","negative","positive"
 Aiguamúrcia,6,0
 Alcover,6,0
-Bràfim,3,0
+Bràfim,4,0
 Cabra del Camp,3,0
 El Milà,1,0
 El Pla de Santa Maria,1,1
-El Pont d'Armentera,1,0
+El Pont d'Armentera,2,1
 Els Garidells,1,0
 Figuerola del Camp,3,0
 Montferri,0,1
@@ -13,137 +13,154 @@ Nulles,2,0
 Puigpelat,2,0
 Rodonyà,0,2
 Vallmoll,4,1
-Valls,59,21
+Valls,87,27
 Vilabella,0,1
-Vila-Rodona,1,2
-Avinyonet de Puigventós,1,0
+Vila-Rodona,2,1
+Agullana,0,1
+Avinyonet de Puigventós,2,2
 Bàscara,1,0
-Borrassà,0,1
+Borrassà,1,1
 Cabanelles,1,0
-Cadaqués,1,2
-Castelló d'Empúries,4,2
-El Far d'Empordà,0,1
+Cabanes,1,0
+Cadaqués,3,4
+Capmany,0,7
+Castelló d'Empúries,14,4
+Colera,1,0
+El Far d'Empordà,1,1
 El Port de la Selva,0,1
-Figueres,30,7
+Espolla,1,0
+Figueres,85,37
 Fortià,1,0
-La Jonquera,1,0
-L'Armentera,3,0
-L'Escala,9,1
-Lladó,1,0
-Llançà,0,1
-Llers,1,0
-Navata,2,1
-Palau-Saverdera,3,0
-Peralada,1,0
-Rabós,1,0
-Roses,5,1
-Sant Climent Sescebes,0,1
-Saus Camallera i Llampaies,0,3
+Garriguella,1,0
+La Jonquera,4,1
+L'Armentera,3,2
+L'Escala,15,6
+Lladó,4,1
+Llançà,5,3
+Llers,3,1
+Maçanet de Cabrenys,2,0
+Navata,3,2
+Ordis,1,1
+Palau-Saverdera,4,2
+Pau,1,0
+Peralada,4,1
+Pont de Molins,1,0
+Rabós,1,1
+Roses,22,5
+Sant Climent Sescebes,2,1
+Sant Miquel de Fluvià,0,3
+Sant Pere Pescador,0,3
+Saus Camallera i Llampaies,1,3
+Torroella de Fluvià,1,0
 Ventalló,4,0
-Vilafant,2,1
-Vilamalla,2,1
-Vilanant,1,0
+Vilabertran,1,0
+Vilafant,15,8
+Vilajuïga,3,1
+Vilamalla,5,1
+Vilamaniscle,1,0
+Vilanant,2,0
+Vila-Sacra,2,1
 Vilaür,1,0
-Avinyonet del Penedès,3,3
-Castellet i la Gornal,2,2
+Avinyonet del Penedès,3,5
+Castellet i la Gornal,4,2
 Castellví de la Marca,1,0
 El Pla del Penedès,2,0
-Font-Rubí,2,2
-Gelida,7,4
-La Granada,3,1
-Les Cabanyes,2,0
-Mediona,7,8
-Olèrdola,7,2
-Olesa de Bonesvalls,6,0
+Font-Rubí,4,2
+Gelida,9,3
+La Granada,5,2
+Les Cabanyes,3,0
+Mediona,8,8
+Olèrdola,12,1
+Olesa de Bonesvalls,7,0
 Pacs del Penedès,1,1
-Puigdàlber,2,0
+Puigdàlber,3,0
 Sant Cugat Sesgarrigues,0,2
-Sant Llorenç d'Hortons,5,2
-Sant Martí Sarroca,6,1
+Sant Llorenç d'Hortons,5,3
+Sant Martí Sarroca,7,3
 Sant Pere de Riudebitlles,4,1
 Sant Quintí de Mediona,6,2
-Sant Sadurní d'Anoia,19,13
-Santa Fe del Penedès,1,0
-Santa Margarida i els Monjos,9,6
-Subirats,7,2
-Torrelavit,5,2
-Torrelles de Foix,1,0
-Vilafranca del Penedès,81,27
+Sant Sadurní d'Anoia,22,14
+Santa Fe del Penedès,2,0
+Santa Margarida i els Monjos,11,7
+Subirats,9,3
+Torrelavit,5,3
+Torrelles de Foix,1,2
+Vilafranca del Penedès,103,33
 Vilobí del Penedès,1,1
 Alàs i Cerc,1,0
-Bassella,1,0
-La Seu d'Urgell,21,15
+Bassella,1,1
+La Seu d'Urgell,25,20
 Montferrer i Castellbò,0,3
 Oliana,6,7
 Organyà,3,0
 Ribera d'Urgellet,1,1
-El Pont de Suert,1,2
+El Pont de Suert,2,3
 La Vall de Boí,1,1
 Vilaller,0,1
 Argençola,1,0
-Cabrera d'Anoia,1,3
+Cabrera d'Anoia,3,3
 Calaf,7,10
 Calonge de Segarra,0,1
-Capellades,14,37
+Capellades,15,39
 Carme,6,4
 Castellfollit de Riubregós,0,1
-Castellolí,7,5
+Castellolí,8,4
 Copons,2,0
 El Bruc,8,2
-Els Hostalets de Pierola,9,14
+Els Hostalets de Pierola,12,15
 Els Prats de Rei,0,2
-Igualada,362,251
+Igualada,404,259
 Jorba,8,5
 La Llacuna,4,4
-La Pobla de Claramunt,17,12
-La Torre de Claramunt,9,20
-Masquefa,20,12
+La Pobla de Claramunt,18,12
+La Torre de Claramunt,14,22
+Masquefa,21,13
 Montmaneu,2,1
-Òdena,21,13
+Òdena,21,15
 Orpí,0,1
-Piera,48,46
+Piera,57,46
 Sant Martí de Tous,10,4
 Sant Martí Sesgueioles,1,1
-Santa Margarida de Montbui,57,69
+Santa Margarida de Montbui,65,67
 Santa Maria de Miralles,0,1
-Vallbona d'Anoia,8,6
+Vallbona d'Anoia,10,6
 Veciana,1,0
-Vilanova del Camí,64,67
-Bossòst,2,5
+Vilanova del Camí,70,74
+Bossòst,4,9
 Es Bòrdes,1,0
 Les,2,0
 Naut Aran,2,1
-Vielha e Mijaran,10,32
+Vielha e Mijaran,17,39
 Vilamòs,0,1
 Artés,4,5
-Avinyó,3,2
-Balsareny,5,2
+Avinyó,4,2
+Balsareny,5,5
 Callús,7,2
-Cardona,11,11
+Cardona,11,13
 Castellbell i el Vilar,4,1
 Castellgalí,5,5
 Castellnou de Bages,2,0
 El Pont de Vilomara i Rocafort,2,7
 Fonollosa,1,2
-Manresa,137,131
+Manresa,140,135
 Marganell,1,0
-Monistrol de Montserrat,8,1
-Navarcles,9,10
-Navàs,8,12
+Monistrol de Montserrat,9,1
+Navarcles,9,14
+Navàs,9,14
 Rajadell,0,1
-Sallent,7,11
+Sallent,8,13
 Sant Feliu Sasserra,1,0
-Sant Fruitós de Bages,12,13
-Sant Joan de Vilatorrada,15,24
+Sant Fruitós de Bages,13,14
+Sant Joan de Vilatorrada,15,28
 Sant Mateu de Bages,2,0
 Sant Salvador de Guardiola,7,2
-Sant Vicenç de Castellet,11,11
-Santpedor,16,10
-Súria,13,9
-Alforja,5,0
-Almoster,4,2
+Sant Vicenç de Castellet,13,11
+Santpedor,16,12
+Súria,14,10
+Alforja,6,0
+Almoster,5,2
 Botarell,3,1
-Cambrils,77,10
+Cambrils,84,13
 Castellvell del Camp,7,0
 Colldejou,1,0
 Duesaigües,0,1
@@ -153,109 +170,119 @@ L'Aleixar,4,0
 Les Borges del Camp,4,0
 Maspujols,2,0
 Montbrió del Camp,6,1
-Mont-Roig del Camp,13,2
+Mont-Roig del Camp,13,4
 Prades,1,0
 Pratdip,1,0
-Reus,242,40
+Reus,268,44
 Riudecanyes,2,0
-Riudoms,12,2
-Vandellòs i l'Hospitalet de l'Infant,9,1
+Riudoms,13,2
+Vandellòs i l'Hospitalet de l'Infant,10,2
 Vilanova d'Escornalbou,1,0
 Vilaplana,1,1
-Vinyols i  els Arcs,2,0
+Vinyols i  els Arcs,3,0
 Aldover,2,1
 Benifallet,2,1
 Camarles,3,2
 Deltebre,22,2
 El Perelló,3,0
-l'Aldea,7,1
-L'Ametlla de Mar,10,1
+l'Aldea,8,1
+L'Ametlla de Mar,12,1
 L'Ampolla,3,4
-Roquetes,23,3
+Roquetes,24,4
 Tivenys,1,0
-Tortosa,117,33
+Tortosa,118,36
 Xerta,5,1
-Calonge i Sant Antoni,5,0
-Castell-Platja d'Aro,4,3
-Cruïlles Monells i Sant Sadurní de l'Heura,2,0
-La Bisbal d'Empordà,4,1
+Albons,1,1
+Begur,5,1
+Bellcaire d'Empordà,0,1
+Calonge i Sant Antoni,20,5
+Castell-Platja d'Aro,13,4
+Corçà,0,1
+Cruïlles Monells i Sant Sadurní de l'Heura,3,0
+La Bisbal d'Empordà,15,4
 La Pera,3,0
-Mont-Ras,1,0
-Palafrugell,8,1
-Palamós,12,4
-Pals,1,0
-Sant Feliu de Guíxols,14,4
-Santa Cristina d'Aro,2,2
-Torroella de Montgrí,7,0
-Abrera,20,10
-Begues,18,18
-Castelldefels,185,122
+Mont-Ras,4,1
+Palafrugell,32,23
+Palamós,63,38
+Palau-Sator,0,1
+Pals,5,0
+Sant Feliu de Guíxols,35,18
+Santa Cristina d'Aro,6,5
+Torrent,1,1
+Torroella de Montgrí,12,2
+Ullà,1,0
+Vall-Llobrega,0,1
+Vilopriu,0,1
+Abrera,22,10
+Begues,18,19
+Castelldefels,208,124
 Catellví de Rosanes,1,5
-Cervelló,19,10
-Collbató,12,7
-Corbera de Llobregat,19,30
-Cornellà de Llobregat,181,107
+Cervelló,22,12
+Collbató,13,6
+Corbera de Llobregat,22,35
+Cornellà de Llobregat,220,121
 El Papiol,9,3
-El Prat de Llobregat,210,290
-Esparreguera,37,21
-Esplugues de Llobregat,112,50
-Gavà,152,159
+El Prat de Llobregat,239,317
+Esparreguera,40,21
+Esplugues de Llobregat,132,57
+Gavà,163,174
 La Palma de Cervelló,3,0
 Martorell,65,53
-Molins de Rei,42,22
-Olesa de Montserrat,42,59
-Pallejà,23,18
-Sant Andreu de la Barca,38,43
-Sant Boi de Llobregat,226,210
-Sant Climent de Llobregat,12,18
-Sant Esteve Sesrovires,23,8
-Sant Feliu de Llobregat,85,44
-Sant Joan Despí,84,33
-Sant Just Desvern,50,25
-Sant Vicenç dels Horts,70,56
-Santa Coloma de Cervelló,22,23
-Torrelles de Llobregat,13,6
-Vallirana,23,16
-Viladecans,226,322
-Albinyana,3,4
-Banyeres del Penedès,4,4
-Bellvei,3,0
-Calafell,32,18
-Cunit,30,16
+Molins de Rei,52,23
+Olesa de Montserrat,47,65
+Pallejà,24,25
+Sant Andreu de la Barca,43,45
+Sant Boi de Llobregat,270,237
+Sant Climent de Llobregat,14,19
+Sant Esteve Sesrovires,24,9
+Sant Feliu de Llobregat,103,45
+Sant Joan Despí,105,34
+Sant Just Desvern,53,29
+Sant Vicenç dels Horts,80,57
+Santa Coloma de Cervelló,27,32
+Torrelles de Llobregat,15,6
+Vallirana,26,17
+Viladecans,263,353
+Albinyana,3,5
+Banyeres del Penedès,4,5
+Bellvei,4,0
+Calafell,34,18
+Cunit,36,17
 El Montmell,3,0
-El Vendrell,49,27
+El Vendrell,50,33
 La Bisbal del Penedès,1,4
 L'Arboç,3,4
 Llorenç del Penedès,3,1
 Sant Jaume dels Domenys,0,2
-Santa Oliva,1,5
-Badalona,807,765
-Barcelona,5767,4997
-L'Hospitalet de Llobregat,721,785
-Sant Adrià del Besòs,116,118
-Santa Coloma de Gramenet,347,318
+Santa Oliva,1,6
+Badalona,886,826
+Barcelona,6259,5355
+L'Hospitalet de Llobregat,816,858
+Sant Adrià del Besòs,130,124
+Santa Coloma de Gramenet,415,393
 Avià,1,6
-Bagà,9,3
-Berga,34,38
+Bagà,9,5
+Berga,33,39
 Borredà,3,0
 Casserres,3,2
+Castellar de N'Hug,1,0
 Cercs,1,4
 Gironella,12,5
 Guardiola de Berguedà,0,3
 Montmajor,0,1
-Puig-Reig,10,4
+Puig-Reig,11,4
 Saldes,0,1
 Sant Julià de Cerdanyola,1,0
 Alp,3,1
-Bellver de Cerdanya,0,3
+Bellver de Cerdanya,1,3
 Ger,0,1
 Guils de Cerdanya,0,1
 Isòvol,1,0
 Lles de Cerdanya,0,1
-Mortellà i Martinet,1,0
-Puigcerdà,10,10
-L'Espluga de Francolí,3,3
-Montblanc,8,4
+Mortellà i Martinet,2,0
+Puigcerdà,11,10
+L'Espluga de Francolí,4,4
+Montblanc,10,5
 Pira,2,1
 Rocafort de Queralt,1,0
 Santa Coloma de Queralt,4,6
@@ -264,124 +291,126 @@ Solivella,0,2
 Vallfogona de Riucorb,0,1
 Vilanova de Prades,1,0
 Vimbodí i Poblet,2,0
-Canyelles,12,8
-Cubelles,23,16
+Canyelles,16,8
+Cubelles,25,17
 Olivella,3,1
-Sant Pere de Ribes,69,23
-Sitges,63,31
-Vilanova i la Geltrú,165,93
-Arbeca,2,1
-Bellaguarda,1,4
+Sant Pere de Ribes,79,31
+Sitges,81,35
+Vilanova i la Geltrú,190,100
+Arbeca,3,1
+Bellaguarda,1,5
 Bovera,1,0
 Castelldans,3,0
 Cervià de les Garrigues,2,0
 El Cogul,1,1
-El Vilosell,2,2
+El Vilosell,1,3
 Els Omellons,0,1
 Fulleda,1,0
 Juncosa,3,0
-Juneda,13,14
+Juneda,16,14
 La Floresta,1,0
 La Granadella,2,1
 La Pobla de Cérvoles,1,0
 l'Albagés,2,0
-Les Borges Blanques,9,5
+Les Borges Blanques,10,6
 Puiggròs,1,1
 Vinaixa,1,0
-Besalú,6,1
+Besalú,6,2
 Castellfollit de la Roca,1,1
-La Vall de Bianya,5,2
+La Vall de Bianya,7,3
 La Vall d'En Bas,6,7
 Les Planes d'Hostoles,1,1
-Les Preses,3,5
-Maià de Montcal,0,1
-Montagut i Oix,1,0
-Olot,55,79
+Les Preses,3,6
+Maià de Montcal,0,2
+Mieres,1,0
+Montagut i Oix,1,1
+Olot,74,99
 Riudaura,0,1
-Sant Feliu de Pallerols,3,1
+Sant Feliu de Pallerols,4,1
 Sant Jaume de Llierca,0,2
-Sant Joan Les Fonts,11,6
-Santa Pau,2,1
+Sant Joan Les Fonts,14,7
+Santa Pau,1,2
 Tortellà,2,1
 Aiguaviva,1,3
-Bescanó,10,11
-Bordils,2,2
+Bescanó,11,11
+Bordils,4,3
 Campllong,0,1
 Canet d'Adri,4,1
-Cassà de la Selva,18,17
-Celrà,7,7
+Cassà de la Selva,23,17
+Celrà,13,6
 Cervià de Ter,4,3
-Flaçà,1,1
-Fornells de la Selva,4,7
-Girona,245,243
-Llagostera,20,14
+Flaçà,2,1
+Fornells de la Selva,5,8
+Girona,274,262
+Llagostera,21,15
 Llambilles,2,1
-Quart,10,4
-Salt,65,59
+Madremanya,1,0
+Quart,11,4
+Salt,73,69
 Sant Andreu Salou,1,0
-Sant Gregori,16,6
+Sant Gregori,20,7
 Sant Joan de Mollet,0,1
-Sant Jordi Desvalls,0,2
-Sant Julià de Ramis,7,7
-Sant Martí de Llémena,3,1
+Sant Jordi Desvalls,1,2
+Sant Julià de Ramis,7,9
+Sant Martí de Llémena,5,1
 Sant Martí Vell,1,0
-Sarrià de Ter,8,17
-Vilablareix,6,7
-Alella,36,28
-Arenys de Mar,46,20
-Arenys de Munt,28,16
-Argentona,32,25
-Cabrera de Mar,9,5
-Cabrils,28,15
-Caldes d'Estrac,7,7
-Calella,25,20
-Canet de Mar,56,16
+Sarrià de Ter,10,19
+Vilablareix,7,9
+Alella,37,30
+Arenys de Mar,49,21
+Arenys de Munt,32,18
+Argentona,33,30
+Cabrera de Mar,12,4
+Cabrils,32,14
+Caldes d'Estrac,9,6
+Calella,26,20
+Canet de Mar,58,16
 Dosrius,18,7
-El Masnou,75,51
-Malgrat de Mar,24,12
-Mataró,356,190
-Montgat,50,30
+El Masnou,80,55
+Malgrat de Mar,28,12
+Mataró,394,210
+Montgat,57,33
 Palafolls,7,6
-Pineda de Mar,65,17
-Premià de Dalt,25,15
-Premià de Mar,71,60
-Sant Andreu de Llavaneres,32,22
-Sant Cebrià de Vallalta,5,0
+Pineda de Mar,68,17
+Premià de Dalt,28,15
+Premià de Mar,81,62
+Sant Andreu de Llavaneres,34,24
+Sant Cebrià de Vallalta,6,1
 Sant Iscle de Vallalta,1,1
-Sant Pol de Mar,16,9
-Sant Vicenç de Montalt,19,7
+Sant Pol de Mar,17,9
+Sant Vicenç de Montalt,19,8
 Santa Susanna,5,4
-Teià,23,9
-Tiana,28,27
-Tordera,29,7
-Vilassar de Dalt,21,17
-Vilassar de Mar,54,34
+Teià,40,8
+Tiana,29,28
+Tordera,31,9
+Vilassar de Dalt,27,19
+Vilassar de Mar,60,39
 Calders,4,3
 Castellterçol,6,1
 Collsuspina,1,0
 L'Estany,2,0
-Moià,8,8
+Moià,8,10
 Monistrol de Calders,0,1
 Santa Maria d'Oló,2,1
 Alcanar,10,1
-Amposta,29,17
+Amposta,33,18
 Freginals,0,1
 Godall,1,0
 La Galera,1,0
-La Sénia,4,1
+La Sénia,5,1
 Mas de Barberans,2,0
 Masdenverge,1,0
 Sant Carles de la Ràpita,22,1
 Sant Jaume d'Enveja,5,0
 Santa Bàrbara,4,3
-Ulldecona,3,2
+Ulldecona,4,2
 Àger,10,29
 Algerri,1,0
 Alòs de Balaguer,1,0
-Artesa de Segre,2,2
-Balaguer,31,59
+Artesa de Segre,3,2
+Balaguer,36,58
 Bellcaire d'Urgell,2,2
-Camarasa,2,6
+Camarasa,2,7
 Castelló de Farfanya,1,0
 Cubells,2,0
 Ivars de Noguera,1,1
@@ -389,114 +418,91 @@ La Sentiu de Sió,2,0
 Les Avellanes i Santa Linya,1,1
 Montgai,0,1
 Os de Balaguer,0,1
-Ponts,2,4
-Térmens,2,1
+Ponts,3,4
+Térmens,2,2
 Torrelameu,0,1
 Vallfogona de Balaguer,4,2
-Balenyà,17,37
-Calldetenes,7,10
-Centelles,20,16
-El Brull,1,1
+Balenyà,18,37
+Calldetenes,7,12
+Centelles,21,18
+El Brull,1,2
 Espinelves,0,1
-Folgueroles,5,2
-Gurb,8,9
+Folgueroles,7,2
+Gurb,8,10
 Les Masies de Roda,0,2
-Les Masies de Voltregà,4,8
-L'Esquirol,12,10
+Les Masies de Voltregà,5,9
+L'Esquirol,12,11
 Lluçà,1,0
 Malla,1,0
-Manlleu,35,61
+Manlleu,39,68
 Montesquiu,4,1
 Muntanyola,1,1
 Olost,0,3
-Orís,0,3
+Orís,1,3
 Oristà,0,2
 Prats de Lluçanès,4,4
-Roda de Ter,8,15
+Roda de Ter,10,16
 Rupit i Pruit,0,2
 Sant Bartomeu del Grau,2,1
 Sant Boi de Lluçanès,4,2
 Sant Hipòlit de Voltregà,12,21
-Sant Julià de Vilatorta,10,20
+Sant Julià de Vilatorta,11,21
 Sant Martí de Centelles,2,0
 Sant Pere de Torelló,2,7
 Sant Quirze de Besora,2,10
-Sant Vicenç de Torelló,2,2
-Santa Eugènia de Berga,11,4
-Santa Eulàlia de Riuprimer,3,9
-Seva,8,3
-Taradell,23,20
-Tona,21,19
-Torelló,12,25
-Vic,115,148
+Sant Vicenç de Torelló,2,5
+Santa Eugènia de Berga,11,5
+Santa Eulàlia de Riuprimer,3,11
+Seva,8,4
+Sora,1,0
+Taradell,24,24
+Tona,30,24
+Torelló,20,40
+Vic,129,156
 Viladrau,3,0
 Vilanova de Sau,1,0
-Conca de Dalt,0,1
+Conca de Dalt,0,2
 Gavet de la Conca,0,2
 Isona i Conca Dellà,5,1
-La Pobla de Segur,13,26
+La Pobla de Segur,14,35
 Salàs de Pallars,0,2
 Senterada,1,0
 Talarn,2,0
-Tremp,16,10
+Tremp,22,10
 Alins,1,0
-Alt Àneu,1,1
-Espot,0,1
-Esterri d'Àneu,0,2
-La Guingueta d'Àneu,0,2
-Rialp,1,0
-Sort,4,3
-Banyoles,37,38
-Camós,1,0
-Cornellà del Terri,7,4
-Esponellà,3,0
-Fontcoberta,10,2
-Porqueres,8,7
-Sant Miquel de Campmajor,1,0
-Serinyà,5,2
-Vilademuls,2,0
-Barbens,4,1
-Bell-Lloc d'Urgell,6,8
-Bellvís,2,1
-Castellnou de Seana,0,1
-El Palau d'Anglesola,2,2
-El Poal,0,1
-Fondarella,3,1
-Golmés,2,0
-Ivars d'Urgell,1,0
-Linyola,5,0
-Miralcamp,0,4
-Mollerussa,14,22
-Sidamon,0,1
-Falset,5,1
+Falset,4,2
 La Morera de Montsant,1,0
 La Vilella Alta,1,0
 Marçà,3,0
 Poboleda,1,0
 Porrera,2,1
-Ascó,2,1
+Ulldemolins,1,0
+Ascó,2,2
 Benissanet,2,0
-Flix,11,1
+Flix,12,1
 Ginestar,2,1
-La Palma d'Ebre,1,0
-La Torre de l'Espanyol,2,0
+La Palma d'Ebre,0,1
+La Torre de l'Espanyol,1,1
 Miravet,1,0
 Móra d'Ebre,13,2
 Móra la Nova,4,1
 Rasquera,1,0
 Riba-Roja d'Ebre,1,0
-Tivissa,1,0
+Tivissa,3,0
 Vinebre,2,0
-Campdevànol,1,0
-Camprodon,3,1
-Llanars,1,0
+Campdevànol,2,0
+Camprodon,6,1
+Llanars,2,0
 Molló,3,0
-Ripoll,7,5
-Sant Joan de les Abadesses,2,2
-Sant Pau de Segúries,1,0
-Cervera,28,20
+Ripoll,16,25
+Sant Joan de les Abadesses,7,9
+Sant Pau de Segúries,1,1
+Setcases,1,0
+Vilallonga de Ter,1,0
+Biosca,1,0
+Cervera,31,21
 Estaràs,0,1
-Guissona,9,13
+Guissona,12,13
 Ivorra,1,1
 Les Oluges,1,0
 Massoteres,1,1
@@ -506,69 +512,69 @@ Sant Guim de Freixenet,5,4
 Sant Ramon,0,1
 Talavera,0,2
 Torà,2,1
-Torrefeta i florejacs,0,1
-Aitona,5,5
-Albatàrrec,3,3
+Torrefeta i florejacs,0,2
+Aitona,8,7
+Albatàrrec,3,5
 Alcanó,0,1
-Alcarràs,27,14
-Alcoletge,6,3
+Alcarràs,31,14
+Alcoletge,6,6
 Alfarràs,12,3
-Alguaire,5,3
-Almacelles,14,2
-Almenar,18,5
-Alpicat,14,10
-Artesa de Lleida,2,5
-Benavent de Segrià,3,3
+Alguaire,5,5
+Almacelles,15,2
+Almenar,20,9
+Alpicat,15,10
+Artesa de Lleida,2,6
+Benavent de Segrià,4,4
 Corbins,2,0
-Els Alamús,2,0
+Els Alamús,2,1
 Gimenells i el Pla de la Font,5,0
 La Granja d'Escarp,1,0
 La Portella,3,0
 Llardecans,2,2
-Lleida,355,242
+Lleida,397,270
 Maials,0,4
 Puigverd de Lleida,3,2
-Rosselló,5,3
+Rosselló,6,5
 Seròs,3,2
 Soses,1,3
 Sudanell,1,1
-Torrefarrera,10,5
+Torrefarrera,10,6
 Torres del Segre,20,2
-Vilanova de la Barca,3,0
+Vilanova de la Barca,4,0
 Vilanova de Segrià,3,1
 Amer,5,4
-Anglès,4,5
-Arbúcies,15,4
-Blanes,107,34
-Breda,5,5
+Anglès,6,6
+Arbúcies,18,4
+Blanes,114,35
+Breda,6,5
 Brunyola,0,1
-Caldes de Malavella,18,18
+Caldes de Malavella,19,18
 Fogars de Tordera,3,0
 Hostalric,15,4
 La Cellera de Ter,5,1
-Lloret de Mar,33,38
+Lloret de Mar,36,38
 Maçanet de la Selva,18,4
 Massanes,2,3
-Riells i Viabrea,11,6
-Riudarenes,5,2
+Riells i Viabrea,11,7
+Riudarenes,5,3
 Riudellots de la Selva,5,0
 Sant Feliu de Buixalleu,1,2
-Sant Hilari Sacalm,9,4
+Sant Hilari Sacalm,10,4
 Sant Julià del Llor i Bonmatí,2,0
-Santa Coloma de Farners,29,26
-Sils,12,7
+Santa Coloma de Farners,32,27
+Sils,13,7
 Tossa de Mar,2,1
-Vidreres,17,9
-Vilobí d'Onyar,4,2
+Vidreres,18,11
+Vilobí d'Onyar,5,2
 Navès,0,1
-Olius,0,1
+Olius,1,1
 Solsona,4,2
 Altafulla,6,1
-Constantí,16,6
-Creixell,6,6
-El Catllar,9,2
-El Morell,4,1
-Els Pallaresos,15,3
+Constantí,19,6
+Creixell,7,6
+El Catllar,10,3
+El Morell,5,1
+Els Pallaresos,16,3
 La Canonja,13,3
 La Pobla de Mafumet,7,1
 La Pobla de Montornès,1,2
@@ -576,18 +582,18 @@ La Riera de Gaià,1,0
 La Secuita,2,0
 Perafort,1,0
 Roda de Berà,7,5
-Salou,56,10
-Tarragona,349,70
-Torredembarra,13,14
+Salou,60,11
+Tarragona,376,77
+Torredembarra,15,15
 Vespella,1,0
-Vilallonga del Camp,6,1
-Vila-Seca,16,3
+Vilallonga del Camp,8,1
+Vila-Seca,19,3
 Arnes,2,0
 Batea,4,0
 Bot,1,0
 Caseres,0,2
 Gandesa,4,0
-Horta de Sant Joan,1,0
+Horta de Sant Joan,1,1
 La Fatarella,1,0
 La Pobla de Massaluca,3,1
 Agramunt,12,4
@@ -597,71 +603,72 @@ Bellpuig,7,3
 Castellserà,3,3
 Ciutadilla,1,0
 Els Omells de na Gaia,1,0
-La Fuliola,4,27
+Guimerà,1,0
+La Fuliola,4,28
 Puigverd d'Agramunt,0,2
 Sant Martí de Riucorb,2,1
-Tàrrega,23,24
-Tornabous,1,4
+Tàrrega,26,29
+Tornabous,1,5
 Verdú,3,1
 Vilagrassa,1,4
-Badia del Vallès,25,38
-Barberà del Vallès,82,79
-Castellar del Vallès,69,56
-Castellbisbal,26,20
-Cerdanyola del Vallès,163,184
+Badia del Vallès,28,44
+Barberà del Vallès,93,103
+Castellar del Vallès,78,65
+Castellbisbal,29,20
+Cerdanyola del Vallès,185,205
 Gallifa,0,1
-Matadepera,26,19
-Montcada i Reixac,93,109
-Palau-Solità i Plegamans,32,22
-Polinyà,19,18
+Matadepera,27,26
+Montcada i Reixac,98,115
+Palau-Solità i Plegamans,35,23
+Polinyà,20,21
 Rellinars,1,0
-Ripollet,97,115
-Rubí,150,134
-Sabadell,633,887
-Sant Cugat del Vallès,203,190
-Sant Llorenç Savall,5,2
-Sant Quirze del Vallès,88,100
-Santa Perpétua de Mogoda,75,75
-Sentmenat,24,11
-Terrassa,657,471
-Ullastrell,4,6
+Ripollet,107,121
+Rubí,157,185
+Sabadell,784,996
+Sant Cugat del Vallès,213,226
+Sant Llorenç Savall,6,2
+Sant Quirze del Vallès,94,114
+Santa Perpétua de Mogoda,78,78
+Sentmenat,27,11
+Terrassa,671,606
+Ullastrell,4,7
 Vacarisses,19,8
-Viladecavalls,19,14
-Aiguafreda,11,6
-Bigues i Riells,23,16
-Caldes de Montbui,42,46
+Viladecavalls,20,16
+Aiguafreda,11,7
+Bigues i Riells,23,17
+Caldes de Montbui,46,49
 Campins,1,1
-Canovelles,31,23
-Cànoves i Samalús,5,7
-Cardedeu,44,33
-Figaró-Montmany,1,4
+Canovelles,31,26
+Cànoves i Samalús,5,9
+Cardedeu,49,36
+Figaró-Montmany,1,6
 Fogars de Montclús,1,0
-Granollers,187,121
-Gualba,6,1
-La Garriga,47,30
-La Llagosta,42,33
-La Roca del Vallès,27,20
-L'Ametlla del Vallès,17,9
-Les Franqueses del Vallès,61,29
-Lliçà d'Amunt,38,29
-Lliçà de Vall,26,15
-Llinars del Vallès,34,20
-Martorelles,17,10
-Mollet del Vallès,187,213
-Montmeló,22,18
-Montornès del Vallès,42,81
+Granollers,203,129
+Gualba,9,1
+La Garriga,49,31
+La Llagosta,47,35
+La Roca del Vallès,29,21
+L'Ametlla del Vallès,18,12
+Les Franqueses del Vallès,66,32
+Lliçà d'Amunt,42,33
+Lliçà de Vall,29,17
+Llinars del Vallès,37,22
+Martorelles,16,11
+Mollet del Vallès,201,227
+Montmeló,26,20
+Montornès del Vallès,43,87
 Montseny,2,0
-Parets del Vallès,60,85
-Sant Antoni de Vilamajor,24,8
-Sant Celoni,71,19
-Sant Esteve de Palautordera,12,4
-Sant Feliu de Codines,9,4
-Sant Fost de Campsentelles,35,29
-Sant Pere de Vilamajor,17,5
-Santa Eulàlia de Ronçana,8,5
-Santa Maria de Martorelles,3,0
-Santa Maria de Palautordera,28,11
-Vallgorguina,13,4
+Parets del Vallès,63,90
+Sant Antoni de Vilamajor,26,10
+Sant Celoni,83,20
+Sant Esteve de Palautordera,14,4
+Sant Feliu de Codines,9,5
+Sant Fost de Campsentelles,42,30
+Sant Pere de Vilamajor,18,6
+Santa Eulàlia de Ronçana,8,6
+Santa Maria de Martorelles,4,0
+Santa Maria de Palautordera,29,11
+Vallgorguina,13,5
 Vallromanes,6,4
 Vilalba Sasserra,2,23
-Vilanova del Vallès,24,6
+Vilanova del Vallès,24,7
