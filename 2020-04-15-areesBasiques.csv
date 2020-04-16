@@ -1,0 +1,375 @@
+"id","name","cases","value"
+001,Agramunt,8,12
+002,Alcarràs,24,17.5
+003,Alfarràs/Almenar,23,22.6
+004,Amposta,24,8.8
+005,Anglès,25,19.7
+007,Aran,69,82
+008,Arbúcies/Sant Hilari,58,44.4
+009,Arenys de Mar,114,42.2
+010,Argentona,62,37.1
+011,Artés,31,26.3
+012,Artesa de Segre,3,6.9
+013,El Vendrell,141,30.4
+014,Balaguer,158,48.8
+015,Banyoles,108,33.1
+016,Barcelona 1A - Barceloneta,33,21.1
+017,Barcelona 1B - Casc Antic,43,22
+018,Barcelona 1C - Gòtic,34,22.2
+019,Barcelona 1D - Raval Sud,68,26
+020,Barcelona 1E - Raval Nord-Dr. Sayé,49,23.5
+021,Barcelona 2A - Sant Antoni,171,45.2
+022,Barcelona 2B - Via Roma,139,42.1
+023,Barcelona 2C- Esq.Eix.-Comte Borrell,155,41.7
+024,Barcelona 2D - Universitat,78,36.3
+025,Barcelona 2E - Esq.Eixample-Casanova,115,32.1
+027,Barcelona 2G - Dreta Eixample,127,49
+028,Barcelona 2H - Passeig Sant Joan,95,33.1
+029,Barcelona 2I - Sagrada Família,119,51.8
+030,Barcelona 2J - Monumental,102,33.7
+031,Barcelona 2K - Sagrada Família,130,46.2
+032,Barcelona 3A - Les Hortes-Poble Sec,87,37.9
+033,Barcelona 3B - Poble Sec-Montjuïc,111,41.1
+034,Barcelona 3C - Dr. Carles Riba,92,55.8
+035,Barcelona 3D - Bordeta,152,44.8
+036,Barcelona 3E - Sants,101,46
+038,Barcelona 3G - Numància,98,37.6
+039,Barcelona 4A - Montnegre,133,41.3
+040,Barcelona4B - Les Corts-Pedralbes,59,26
+041,Barcelona 4C - Les Corts-Helios,116,33.4
+042,Barcelona 5A - Marc Aureli,66,21.6
+043,Barcelona 5B - Sant Elies,90,24.2
+044,Barcelona  5C - Sarrià,78,27.5
+045,Barcelona 5D-Vallvidrera-Les Planes,66,32.4
+046,Barcelona 5E - Sant Gervasi,114,30.7
+047,Barcelona 6A - Joanic,166,50.8
+048,Barcelona 6B - Vila de Gràcia,106,39.5
+049,Barcelona 6C - Lesseps,105,43.3
+050,Barcelona6D - Vallcarca,101,43.7
+051,Barcelona 7A - Sanllehy,127,52.6
+052,Barcelona 7B - Sardenya,114,49
+053,Barcelona 7C - El Carmel,132,62
+054,Barcelona  7D - Lisboa,222,70
+055,Barcelona 7E - Sant Rafael,258,71.8
+056,Barcelona 7F - Lisboa,181,73.9
+059,Barcelona 8C - Turó de la Peira,160,60.4
+062,Barcelona 8F - Guineueta,209,67.1
+063,Barcelona 8G - Roquetes,136,82.2
+064,Barcelona  8H - Ciutat Meridiana,88,59.3
+065,Barcelona 9A - Sagrera,151,41.1
+067,Barcelona 9C - Congrés,204,53.3
+069,Barcelona 9E - Bon Pastor,79,54.2
+070,Barcelona 9F - Via Barcino,73,77.7
+071,Barcelona 10A - Vila Olímpica,107,29.1
+072,Barcelona 10B - Ramon Turró,88,31.4
+073,Barcelona 10C - Poble Nou,82,34.7
+074,Barcelona 10D - Besòs,86,30.7
+075,Barcelona 10E - Encants,103,52.1
+076,Barcelona 10F - Camp de l'Arpa,149,55.8
+077,Barcelona 10G - El Clot,95,36.9
+078,Barcelona 10H - Sant Martí,74,32.1
+079,Barcelona 10I - La Pau,58,42.3
+080,Bàscara,10,19.7
+081,Bellpuig,7,10.3
+082,Berga,99,40.5
+083,Besalú,18,26.3
+084,La Bisbal d'Empordà,22,12.6
+085,Blanes,80,19.9
+086,Les Borges Blanques,32,19.4
+087,Les Borges del Camp,20,29.8
+088,Calaf,18,23.5
+089,Caldes de Montbui,82,34.8
+090,Calella,32,15.9
+091,Cambrils,87,27.8
+092,Camprodon,3,8.5
+093,Canet de Mar,44,19.1
+095,Cardedeu,58,28.9
+096,Cardona,56,92.5
+097,Castellar del Vallès,201,79.9
+098,Montserrat,22,16.9
+100,Cassà de la Selva,85,26.9
+101,Celrà,19,19.9
+102,Centelles,62,50.8
+103,La Cerdanya,29,17.7
+104,Cerdanyola del Vallès 1 - Serraparera,103,40.9
+105,Cerdanyola del Vallès 2 - Canaletes-Fontetes,157,66.5
+106,Cervera,97,46.5
+107,Constantí,15,26.4
+108,Cornellà de Llobregat 1 - Martí Julià,114,35.8
+109,Cornellà de Llobregat 2 - St Ildefons,77,28.8
+110,Cornellà de Llobregat 3 - Gavarra,56,36.6
+111,Cornellà de Llobregat 4 -Jaume Soler,60,34
+112,Cornudella de Montsant,4,12.3
+113,Deltebre,2,1.1
+114,L'Escala,20,12.6
+115,Esparraguera,63,24.4
+116,Esplugues de Llobregat 1-Can Vidalet,65,34.2
+117,Esplugues de Llobregat 2 - Lluís Millet,100,32.6
+118,Falset,5,6.4
+119,Figueres,86,18.7
+120,Flix,7,9.3
+121,La Garriga,100,32.9
+122,Gavà 1,160,84.5
+123,Gavà 2,155,61.5
+124,Girona 1 - Santa Clara,90,38.8
+125,Girona 2 - Can Gibert del Pla,136,45.2
+126,Girona 3 - Montilivi,169,49
+127,Girona 4 - Taialà,74,51
+128,Baix Berguedà,30,22.4
+129,La Granadella,9,23.6
+130,Alt Berguedà,36,59.2
+131,Anoia Rural,59,54.3
+133,La Jonquera,15,21
+134,Llançà,7,9.6
+135,Lleida 1 Centre Històric-Rambla Ferran,46,25.4
+136,Lleida 2 Primer de Maig,96,34.6
+137,Lleida 3 Eixample,85,37.5
+138,Lleida 4 Balàfia - Pardinyes,106,42.9
+139,Lleida 5 Cappont,43,27.9
+140,Lleida 6 Bordeta - Magraners,36,24.4
+141,Lleida Rural 1 - Nord,51,22.3
+142,Lloret de Mar,80,22.3
+143,Malgrat de Mar,40,14.6
+144,Manlleu,122,60.6
+145,Manresa 1,69,31.3
+146,Manresa 2 - Plaça Catalunya,70,29.7
+147,Manresa 3,42,28.3
+148,Manresa 4 - Sagrada Família,87,37
+149,Martorell Urbà,101,37.5
+150,Martorelles,71,47
+152,Mataró 6 - Ronda Gatass,69,33.5
+153,Mataró  2 - Centre,46,26.9
+154,Mataró  3 - Rocafonda,45,25.3
+155,Mataró 4 - Cirera Molins,66,30.2
+156,Mataró 5 - Ronda Cerdanya,55,26
+157,Mataró 6 - Ronda Gatassa,43,31.2
+158,Mataró 7 - Ronda Prim,40,27.9
+159,Moià,21,20.6
+160,Molins de Rei,57,20
+161,Pla d'Urgell,61,15.7
+162,Montblanc,30,18
+163,Mont-Roig del Camp,18,14
+164,Montornès / Montmeló,165,56.4
+165,Móra la Nova - Móra d'Ebre,9,5.7
+166,El Morell,20,18.9
+167,Navàs/Balsareny,43,40.4
+168,Olesa de Montserrat,103,46.9
+169,Alt Urgell-Sud,12,22.6
+171,Olot,178,43.2
+172,Palafrugell,122,40.2
+173,Palamós,75,25
+174,Pallars Sobirà,14,20.5
+175,Parets del Vallès,102,63.3
+176,Penedès Rural,66,19.5
+177,Peralada,12,16.6
+178,L'Ametlla de Mar - El Perelló,5,5.4
+179,La Pobla de Segur,59,110.7
+180,Alta Ribagorça,5,13.5
+181,Ponts,6,18.1
+182,El Prat de Llobregat 1 - Ramona Via,129,57.5
+183,El Prat de Llobregat 2 - Sant Cosme I,217,68.7
+184,El Prat de Llobregat 3 - Dr. Pujol Capçada,62,54.5
+185,Lluçanès,14,20.3
+186,Premià de Mar,147,37.5
+187,Ripoll-Sant Joan de les Abadesses,53,32.1
+188,Riudoms,32,26.1
+189,Roses,36,11
+190,Sabadell 1A - Centre,230,62.1
+191,Sabadell 1B - Sant Oleguer,121,53.3
+192,Sabadell 2 - Creu Alta,113,45.3
+193,Sabadell 3A - Ca n'Oriac,169,83.3
+194,Sabadell 3B - Nord,83,50.6
+196,Sabadell  5 - Gràcia-Merinals,100,52.1
+197,Sabadell 6 - Sud,201,65.9
+198,Sabadell 7 - La Serra,37,45.4
+199,Salt,169,46
+200,Sallent,24,31.2
+201,Sant Andreu de La Barca,81,33
+202,Sant Boi de Llobregat 1 - Montclar,230,61.2
+203,Sant Boi de Llobregat 2 - Molí Nou,111,50.8
+204,Sant Boi de Llobregat 3 - Camps Blancs,93,82.2
+205,Sant Boi de Llobregat 4 - Vinyets,115,53.1
+206,Sant Carles de La Ràpita,10,3.9
+207,Sant Celoni,99,29.6
+208,Sant Feliu de Guíxols,55,15.3
+209,Sant Feliu de Llobregat 1 - El Pla,41,22.9
+210,Sant Feliu de Llobregat 2 - Rambla,72,26.8
+211,Navarcles - Sant Fruitós de Bages,111,46.6
+212,Sant Hipòlit de Voltregà,41,57.2
+213,Sant Joan Despí 1,52,29.3
+214,Sant Joan Despí 2 - Les Planes,41,30.4
+215,Sant Joan de Vilatorrada,78,59.1
+216,Sant Just Desvern,86,46
+217,Sant Quirze de Besora,24,44.1
+218,Sant Sadurní d'Anoia,124,53.1
+219,Sant Vicenç de Castellet,42,27.5
+221,Santa Coloma de Farners,49,31.2
+222,Santa Coloma de Gramenet 1 - Can Mariner,120,51.1
+223,Santa Coloma de Gramenet 2 - Llatí,99,72.3
+224,Santa Coloma de Gramenet 3 - Singuerlín,181,90.6
+225,Santa Coloma de Gramenet 4-Riu Nord-Riu Sud,155,63.6
+226,Santa Coloma de Gramenet  5 - Santa Rosa,98,48.6
+228,Santa Coloma de Queralt,10,23.6
+229,Santa Margarida de Montbui,80,84.8
+230,Santa Perpètua de la Mogoda,94,41.2
+231,Sarrià de Ter,52,39.7
+232,Seròs,26,29.3
+233,La Seu d'Urgell,34,20
+234,Sils/Vidreres/Maçanet de la Selva,56,26.1
+235,Sitges,56,20.6
+236,El Solsonès,9,7
+237,Súria,24,23.2
+238,Santa Eugènia de Berga,99,55.8
+239,Tarragona 1 - Bonavista-La Canonja,17,13.2
+240,Tarragona 2 - La Granja-Torreforta,62,27.5
+241,Tarragona 3 - Jaume I,64,19.8
+242,Tarragona 4,17,10.8
+243,Tarragona 5 - Sant Pere i Sant Pau,29,19.3
+244,Tarragona 6 - Tarragonès,47,23.5
+245,Tàrrega,85,34.7
+246,Terra Alta,4,2.9
+247,Terrassa A - Sant Llàtzer,239,54.5
+248,Terrassa B - Est,90,39.4
+249,Terrassa C - Antoni Creus,40,37.5
+250,Terrassa D - Oest,129,43.1
+251,Terrassa E - Rambla,260,40.8
+252,Terrassa F - Nord,226,56.4
+253,Tona,51,40
+254,Vall del Ges,83,42.9
+255,Tortosa 1 Est - El Temple,24,9.8
+256,Tortosa 2 - Oest,32,13.2
+257,Torredembarra,61,16.6
+258,Torroella de Montgrí,13,8.3
+259,Tremp,17,19.1
+260,Ulldecona,3,2.4
+261,Vallirana,66,29.1
+262,Alt Camp Est,19,15.3
+263,Valls Urbà,45,16.5
+265,Viladecans 1,131,58.8
+266,Viladecans 2,184,90
+267,Vilafant,39,27.6
+269,Vilanova del Camí,91,77.6
+271,Vilassar de Mar,75,29.1
+272,Badalona 1 - Martí i Julià,79,60.3
+273,Badalona 2 - Centre-Dalt la Vila,85,46
+274,Badalona 3 - Progrés-Raval,95,46.1
+275,Badalona 4 - Gorg,47,35.5
+276,Badalona 5 - Sant Roc,77,44.8
+277,Badalona 6 - Llefià,168,67.2
+279,Badalona 8 - Nova Lloreda,72,45.7
+280,Badalona  9 - Apenins-Montigalà,110,60.7
+281,Badalona 10 - Nova Lloreda,55,53.7
+282,Badalona 11 - Bufalà-Canyet,125,58.2
+283,Badalona 12 - Morera-Pomar,64,51.8
+284,Granollers 1 Oest - Canovelles,49,22.7
+285,Granollers 2 Nord - Les Franqueses,74,26.7
+286,Granollers 3 - Centre Est,108,35.9
+287,Granollers 4 Sud - Sant Miquel,51,31.1
+288,L'Hospitalet de Llobregat 1 - Centre,179,57.4
+289,L'Hospitalet de Llobregat 2 -S.Josep,161,66.1
+290,L'Hospitalet de Llobregat 3 - Collblanc,113,44.6
+291,L'Hospitalet de Llobregat 4 Torrassa,118,43
+292,L'Hospitalet de Llobregat 5-S.Eulàlia N.,155,75
+293,L'Hospitalet de Llobregat 6-S.Eulàlia S.,188,77.6
+294,L'Hospitalet de Llobregat 7-Florida N.,104,48
+295,L'Hospitalet de Llobregat 8-Florida S.,97,42.1
+296,L'Hospitalet de Llobregat 9-Pubilla C.,107,36.8
+297,L'Hospitalet de Llobregat 10 - C.Serra,87,66.6
+298,L'Hospitalet de Llobregat 11 - Gornal,47,55.8
+299,L'Hospitalet de Llobregat 12 (Bellvitge),178,64.4
+300,La Llagosta,42,29.1
+303,Reus 1 - Sant Pere,48,35.4
+304,Reus 1 - Sant Pere,81,29.6
+305,Reus 3 - Llibertat,80,35.4
+306,Reus 4 - Horts de Miró,67,33.1
+307,Reus 5 - Barri Fortuny,105,41.3
+309,Rubí 1,89,31.7
+310,Rubí 2 - Anton Borja,118,47
+311,Sant Adrià Del Besòs 1 - Dr. Barraquer,166,80.6
+312,Sant Adrià Del Besòs 2 - La Mina,41,28.2
+314,Baix Penedès - Interior,60,41.9
+315,Vall del Tenes,109,31.5
+316,Vilanova i La Geltrú 1,66,26.1
+317,Vilanova i La Geltrú 2,61,24.6
+319,Montgat - Tiana,95,51.1
+320,Barberà del Vallès,213,72.8
+322,Badia del Vallès,60,43.7
+324,Vandellòs i L'Hospitalet de L'Infant,14,23.7
+325,Pineda de Mar,42,13.5
+326,Barcelona 7G - Guinardó,208,59.9
+327,Barcelona 8I - Xafarines,117,61.3
+328,L'Aldea - Camarles - L'Ampolla,4,2.9
+329,Lleida Rural 2-Sud,19,24.5
+330,Breda - Hostalric,39,30.5
+331,Barcelona 10J - Verneda Sud,67,26
+333,Alt Camp Oest,5,8.3
+334,Almacelles,15,14.5
+335,Sant Andreu De Llavaneres,63,34
+336,Tordera,24,13.5
+337,Capellades,80,74.8
+338,Piera,79,46.3
+339,Salou,40,18.8
+340,Vila-Seca,69,47.8
+341,Badalona 7A - Gran Sol,108,56.4
+342,Badalona 7B - La Salut,82,46.5
+343,Ribes De Freser-Campdevànol,23,37.3
+344,Sabadell 4A - Concòrdia,73,47.3
+345,Sabadell 4B - Can Rull,133,61.4
+346,Sant Joan Les Fonts,20,38.9
+347,Vall d'En Bas,19,29.1
+348,Mollet del Vallès 1 - Est,185,68.9
+349,Mollet del Vallès 2 - Oest,160,72.3
+350,Vic 1 - Nord,159,60.4
+351,Vic 2 - Sud (El Remei),121,51.5
+352,Tarragona 7 - Sant Salvador,59,68
+353,Vilassar de Dalt,39,22.4
+354,La Selva del Camp,26,37
+355,La Roca del Vallès,25,24
+356,Terrassa G - Sud,87,36.3
+357,Calafell,47,18.8
+358,Barcelona 6E - La Salut,105,40.1
+359,Cubelles-Cunit,64,23
+360,Martorell Rural,99,42.1
+361,El Masnou-Alella,102,40.2
+362,Ocata-Teià,39,25.5
+363,Sant Quirze del Vallès,202,136.6
+364,Tarragona 8 - Muralles,18,10.7
+365,Castelldefels 1 - El Castell,114,33.1
+366,Castelldefels 2 - Can Bou,68,25.4
+367,Pallejà,57,57.9
+368,Santa Coloma de Gramenet 6,87,45
+369,Corbera de Llobregat,49,31.8
+370,Abrera,37,40.9
+371,Igualada-1,154,73.2
+372,Igualada-2,155,75.5
+373,Begues,25,43.3
+374,Sant Vicenç dels Horts 1 - Vila Vella,78,37.5
+375,Sant Vicenç dels Horts  2 - El Serral,41,36.2
+376,Alt Mogent,106,52
+377,Roda de Ter,40,38.3
+378,Rubí -3,93,79.8
+379,Lleida 7 Onze de Setembre,64,37.3
+380,Vilanova i La Geltrú 3,89,44.7
+381,Montcada i Reixac - 1,107,48
+382,Montcada i Reixac - 2,49,43.8
+383,Barcelona 3H - La Marina,102,50.7
+384,Cerdanyola-Ripollet,49,37.2
+385,Barcelona 8J - Cotxeres,167,59.6
+386,Ripollet 1 - Pinetons,75,45.6
+387,Ripollet 2 - Centre,51,39.9
+388,Sant Cugat del Vallès-1,121,41.6
+389,Sant Cugat del Vallès-2,133,42.7
+390,Sant Cugat del Vallès-3,86,39.9
+391,Palau-Solità i Plegamans,73,54.2
+392,Polinyà-Sentmenat,44,28.5
+393,Ribes-Olivella,107,68.9
+394,Roquetes-Canyelles,40,21.5
+395,Barcelona  9H - CAP Sant Andreu,152,44.6
+396,Barcelona 9I - CAP Casernes,162,62
+397,Vilafranca del Penedès 1,92,44.8
+398,Vilafranca del Penedès 2,64,32.1
+399,Castellbisbal,52,47.1
+400,Barcelona  3I -  Badal,130,46.6
+401,Viladecans 3,176,86.8
+402,Barcelona  8K - Porta,150,72.7
+403,Barcelona  8L - Prosperitat-Verdum,229,71.1
